@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @islamyoussef
-- 👀 I’m interested in developing desktop applications
-- 🌱 I’m currently learning programming web app using asp.net core mvc
+- 👀 I’m interested in web applications using .net core
+- 🌱 I’m currently learning developing mobile apps using flutter
 
 
 <!---
