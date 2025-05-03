@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @islamyoussef
-- 👀 I’m interested in web applications using .net core
-- 🌱 I’m currently learning developing mobile apps using flutter
+- 👀 I’m interested in developing web applications using .net core and sometimes wordpress
+- 🌱 I’m interested in developing mobile app too, using flutter 
 
 
 <!---
